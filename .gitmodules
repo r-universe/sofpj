@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "mumm"]
+	path = mumm
+	url = https://github.com/sofpj/mumm
+	shallow = true
+	registered = true
